@@ -4,4 +4,4 @@
 //   return tf.loadGraphModel(process.env.MODEL_URL);
 // }
 
-// module.exports = loadModel;
+// module.exports = loadModel
