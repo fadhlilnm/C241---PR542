@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InWarkop</string>
+    <string name="home_text">Daerah Jakarta Mana Kamu?</string>
+    <string name="button_north">Utara</string>
+    <string name="button_south">Selatan</string>
+    <string name="button_east">Timur</string>
+    <string name="button_middle">Tengah</string>
+    <string name="button_west">Barat</string>
+    <string name="enter">Enter</string>
+    <string name="item_nama">Nama</string>
+    <string name="item_alamat">Alamat</string>
+    <string name="item_rating">Rating</string>
+</resources>
