@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/item_alamat"
-        android:textSize="16sp"
+        android:textSize="15sp"
         android:padding="4dp" />
 
     <TextView
