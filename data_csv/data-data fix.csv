@@ -1,0 +1,256 @@
+name,place_type,address,rating,rating_count,latitude,longitude,region
+WARKOP 2 SAUDARA,Kafe,"Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta","4,5",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+"Warkop Selamat Sejahtera, Kebon Kacang",Kedai Kopi,"Jl. Kebon Kacang 30 No.15, RT.5/RW.4","4,5",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Been Aouf,Kafe,"Jl. Kb. Kacang XL No.24, RT.10/RW.4","4,5",68,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop otoy,Kedai Kopi,Jl. Kebon Kacang 30 No.7,"5,0",3,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Barokah masjid jami'e darusalam,Kedai Kopi,"Masjid Darussalam, Jl. Kotabumi Ujung No.Depan 8, RT.8/RW.3","4,5",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Sehati,Kedai Kopi,"Jl. Kb. Kacang 6 No.70 14, RT.14/RW.5","5,0",1,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Tiku,Kedai Kopi,Thamrin City Lantai 3 No 28 Food court Jln Teluk Betung Boulevard,"4,7",56,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop kuningan,Kedai Kopi,"Jl. Kebon Sayur No.20, RT.14/RW.3","5,0",1,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+WARKOP MOTEKAR,Kedai Kopi,"Jl. Talang Betutu Ujung No.10 15, RT.13/RW.4","4,7",3,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Khabita 78,Kedai Kopi,"No., Jl. Tj. Duren Raya No.1, RT.3/RW.1","4,7",22,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Mamah GALANG & BAIM,Kedai Kopi,"Jl. Dukuh Pinggir V No.19 10, RT.10/RW.6","4,3",3,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Bang DuDung,Kafe,"RR6C+RM3, Jl. Kb. Kacang XI","4,5",8,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+WARKOP BABEH,Kedai Kopi,Jl. Sungai Gerong No.1-1A,"5,0",1,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Sugab,Kafe,"Jl. Kp. Bali X No.26 7, RT.8/RW.9","4,8",19,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Kabengbat,Kafe,"Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta","4,0",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop AP KT NT AJ,Kedai Kopi,"samping Gedung Jamiat Kheir, Jl. Kb. Kacang 6","5,0",2,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop pancong Lontar ( Kebon Melati ),Kafe,"Jl. Lontar Raya No.107b 1, RT.1/RW.12","4,6",10,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Segitiga,Kafe,"Jl. K.H. Wahid Hasyim No.54A 7, RT.7/RW.5","3,3",8,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Slamet. Bw,Kafe,"QRX8+R2M, RT.1/RW.17","4,1",7,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop JAJA,Kafe,"Jl. Sabeni Raya No.20, RT.20/RW.12","4,5",2,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Romi gaharu,Kafe,"Jl. Kembang IV No.111 1, RT.1/RW.2","5,0",25,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop UPA,Kedai Kopi,"Jalan Jati Baru 10 RT. 01/RW.04 RT.1, RT.1/RW.4","5,0",14,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Akang,Kafe,"Jl. Kb. Pala II No.10 5, RT.5/RW.13","3,5",4,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Babang,Kafe,"Jl. Kp. Bali XIII No.1, RT.2/RW.9","4,9",7,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Aba Tanah Abang,Kedai Kopi,"Jl. K.H. Mas Mansyur Jl. Kb. Pala I No.286, RT.2/RW.16","5,0",13,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+WARKOP OREN TENLIS,Kedai Kopi,"Jl. Tenaga Listrik No.1, RT.7/RW.16","5,0",10,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+WARKOP HDHT 24 JAM,Kafe,"Jl. Kp. Bali XII No.37 4, RT.1/RW.9","5,0",6,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Ihsan Sabang,Kafe,"Jl. H. Agus Salim No.35, RT.1/RW.1","5,0",2,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Morena99,Kafe,"Patokan pos burung, Jl. Kb. Pala 3 No.013, RT.1/RW.15","5,0",5,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Sari,Kafe,"Jl. Kb. Pala 3 No.36A 3, RT.3/RW.13","4,0",4,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop Kang Sidik,Kafe,"Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta","4,7",76,-6.1869183,106.8251952,{'name': 'Kota Jakarta Pusat'}
+Warkop jaja jabun,Kedai Kopi,"Warkop Jaja jabun, Alamat: jl. Jati bunder 7.RT 09 RW 14. kel. Kebon melati, RT.4/RW.14","4,0",4,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Mang Ade,Kafe,"QRV6+8PF, Jl. Karet Pasar Baru Barat II, RT.9/RW.5","4,3",6,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+WARKOP KUNTAS,Kafe,"Jl. Kebon Sirih Timur No.dalam no.5d, RT.14/RW.6","5,0",1,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop bunda salsa,Kedai Kopi,"Jl. Edi 9 No.11 5, RT.5/RW.6","4,7",3,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop(nasgor)tohir,Kafe,"Jl. Jati Bunder Dalam No.27 11, RT.11/RW.14","3,4",5,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Jambu,Kedai Kopi,"No. 12, Jl. Karet Karya 1, RT.4/RW.7","4,8",36,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Ilham,Kedai Kopi,"Jl. Menteng No.5, RT.5/RW.7","4,6",12,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Hegar,Kafe,"Jl. Taman Setia Budi II No.1, RT.1/RW.2","4,5",41,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Mamang Adi,Kedai Kopi,"Jl. Petamburan II No.17A, RT.11/RW.3","5,0",4,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop gang mess,Kafe,"Jl. Mess No.RT. 14, RT.13/RW.17","4,4",47,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+WARKOP PAK'DE,Kafe,"RR99+37W, Jl. Kebon Sirih, RT.2/RW.3","3,2",6,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+WARKOP BHEGHE,Kedai Kopi,"jln.admininstrasi I pejompongan rt. 08 rw. 07 kec, RT.1/RW.7","5,0",11,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Arimbi,Kafe,RT.3/RW.2,"5,0",12,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Marindo,Kedai Kopi,"Jalan Bendungan Hillir 3 No.9, RT.11/RW.1","4,4",143,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Asgar,Kedai Kopi,"Jl. Halimun Raya No.2 15 6, RT.15/RW.6","4,3",3,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Pasundan Setiabudi Tengah,Kedai Kopi,"Jl. Setiabudi Tengah No.14 Seberang Warung MJS / Le Green Kuningan Setiabudi, RT.1/RW.1","4,4",9,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+Warkop Ar Rahman,Kafe,"Jl. Setia Budi V No.15 5, RT.5/RW.3","5,0",5,-6.1921555,106.8117015,{'name': 'Kota Jakarta Pusat'}
+WARKOP MAMA ADIT,Kafe,"Jl. Kedoya Raya No.58A 10, RT.2/RW.1","4,1",8,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Imam,Kafe,"Jl. Panjang No.1, RT.1/RW.3",5,4,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Kang Didi,Kafe," 9, RT.9/RW.13",5,2,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Edo/edi,Kafe,"Jl. Taman Ratu Raya Blk. BB1 No.19 10, RT.3/RW.13","4,5",11,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Pengkolan,Kedai Kopi,"Jl. Pengairan Pesing Koneng No.39 10, RT.10/RW.8",5,10,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop angkringan Bu rete pingkal,Kedai Kopi,"RQP8+QM5,Jakarta Barat, RT.3/RW.1",5,1,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Cukil,Kafe,"Jl. Ratu Barat 1 No.10 9, RT.9/RW.13",5,3,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop bang otip,Kafe,"RQP8+WXM, RT.4/RW.1","4,9",30,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop betawi bg daus,Kedai Kopi,"Jl. Pesing Garden No.19, RT.4/RW.8",5,2,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Mpo Yanti,Kafe,"RQG9+JVJ, Unnamed Road, RT.3/RW.4","4,4",8,-6.1674309,106.7637239,{'name': 'Kota Jakarta Barat'}
+Warkop Jaya,Kafe,"RQV6+F3X, RT.13/RW.3","4,5",17,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Ali Green Garden,Kafe,"Jl. Adhi Karya No.30, RT.2/RW.5","4,9",22,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Sari Indah - Joss Chicken,Kedai Kopi,"Jl. Perjuangan No.12E 3, RT.13/RW.7","4,7",85,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Deni,Kedai Kopi,"Jl. Basmol Raya No.158, RT.8/RW.4","4,4",107,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Ropang Rai Raka,Kedai Kopi,"Jl. Indraloka Raya No.28, RT.5/RW.6","4,9",10,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Project,Kedai Kopi,"Jl. Kedoya Raya No.27 1, RT.1/RW.3","4,5",32,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Ujung Aspal,Kafe,"Jl. Surya Permata III No.79 12, RT.14/RW.1",5,11,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Ipeh,Kafe,"Jl. Pesing Garden No.90 1, RT.1/RW.8",5,10,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop pesing garden,Taman,"Ruko Green Garden, Komp, nomer, Jl. Panjang Arteri Klp. Dua Raya No.16, RT.14/RW.8","4,8",5,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop 1926,Kedai Kopi,"Jl. Panjang No.4, RT.13/RW.5",5,2,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop BU PONNY,Kafe,"Jl. Kali Sekretaris No.2, RT.2/RW.5",5,1,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Rasa Rindu,Kafe,"Jl. Kali Sekretaris No.20, RT.8/RW.5",5,1,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Naik Kelas,Kedai Kopi,"Jl. Komp. Graha Indah Green Ville Blok Bg No.20, RT.11/RW.14","4,6",45,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+warkop tampomas,Kafe,"Jl. Asem Raya No.3, RT.8/RW.8","4,6",16,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Kataji,Kedai Kopi,"Jalan Puri Kembangan Rt 06/03 #97, Kedoya Selatan, Kebon Jeruk, RT.8/RW.3","4,3",61,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop BABEH,Kedai Kopi,"Jl. Kp. Salo No.2, RT.2/RW.4",5,1,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Noni jln karya grogol,Kafe,"Jl. Karya Barat III No.9c 10, RT.10/RW.3",5,1,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+WARKOP KUNINGAN GANG MASJID AL UKHUWAH,Kafe,"Jl. Masjid Al Ukhuwah No.6 13, RT.13/RW.1","4,2",5,-6.1562699,106.7602297,{'name': 'Kota Jakarta Barat'}
+Warkop Jaya,Kafe,"RQV6+F3X, RT.13/RW.3","4,5",17,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop Rasa Rindu,Kafe,"Jl. Kali Sekretaris No.20, RT.8/RW.5",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop Salo.,Kafe,"Kp Salo Rt 7/7, RT.2/RW.5",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop Rasa Sayang komp.depag,Kedai Kopi,"Jl. Komp. Departemen Agama No.18 4, RT.4/RW.3",5,10,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop bang udin,Kedai Kopi,"Jl. Mangga 19 No.2, RW.3",5,2,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop BASS,Kafe,"Jl. Duri Mas 1 Ujung No.rt8, RT.5/RW.10",5,2,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+WARKOP MPOK NUNG,Kafe,"Belakang Studio 5 Indosiar, Jl. Kali Sekretaris No. 1 RT. 007 RW. 05, Jl. Kali Sekretaris No.1, RT.8/RW.5",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop End try,Kedai Kopi,Jl. Mangga 16 No.3,5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+WARUNG FARIDAH(warkop),Kedai Kopi,"RQR5+XV4, RT.3/RW.3",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+BC SEENKERS...WARKOP PAK GATOT,Kafe,"RQR8+QHM, Jakarta Barat, RT.3/RW.5",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+WARKOP ADVENTURE,Kafe,"Jl. Kp. Baru No.010 3, RT.10/RW.3",5,3,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+warkop Isal,Kedai Kopi,"RQF3+V86, RT.10/RW.6",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop 1980,Kafe,"Gg. H. Musanif No.24 1, RT.1/RW.8",5,4,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+WARKOP BOSS !,Kedai Kopi,"Jl. Tanggul Kp. Baru No.130, RT.3/RW.10",5,6,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop Noni jln karya grogol,Kafe,"Jl. Karya Barat III No.9c 10, RT.10/RW.3",5,1,-6.1748081,106.7562077,{'name': 'Kota Jakarta Barat'}
+Warkop Putri Tunggal,Cafe,Dine-in·Takeout,5,1,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Mang Odon,Cafe,"Jl. Amal Raya No.32, RT.6/RW.1",4.8,20,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop cipta rasa 234,Coffee shop,"Jl. Pahlawan Revolusi No.63, RT.1/RW.9",5,10,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop sky (warkop Nungs),Coffee shop,"Jl. Masjid Abidin No.8, RT.3/RW.8",5,1,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+WARKOP RIZQUNA,Coffee shop,"Jl. Guru H. Sa'enan No.17 Blok B, RT.4/RW.9",4.8,12,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop SILMA,Coffee shop,"No., Jl. Dermaga Raya No.322, RT.7/RW.9",4.4,44,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Unyil,Coffee shop,"no. duren sawit, Jl. Pahlawan Revolusi No.42, RT.1/RW.9",4.3,9,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Berkah 76,Coffee shop,"Jl. Masjid Abidin No.4, RT.4/RW.6",4.5,4,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Kepo,Cafe,"Jl. Cipinang Muara 3 No.39 17, RT.17/RW.4",4.6,76,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Atjoy,Coffee shop,"Jl. Dermaga Raya No.24 C, RT.3/RW.7",4.5,10,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+warkop balerakyat,Cafe,"Jl. Balai Rakyat No.11, RT.11/RW.9",2,3,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+WARKOP OREN PONDOK BAMBU,Coffee shop,"Jl. B. Tanah 80 No.5, RW.8",5,5,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Seruput 31,Cafe,"Jl. Cipinang Muara 3, RT.7/RW.4",4.5,21,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Joker,Cafe,"Jl. Masjid Abidin No.5, RT.5/RW.1",5,2,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Acong Captain,Coffee shop,"Jl. Kapitan No.37 9, RT.9/RW.4",4.3,12,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop Arnika,Coffee shop,"QWJ2+95M, Jl. Dermaga Raya, RT.4/RW.8",4.5,4,-6.2243709,106.8997451,{'name': 'Kota Jakarta Timur'}
+Warkop BONSER 8450,Cafe,"QWG2+QQ8, RT.6/RW.9",4,1,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Bang ucup,Coffee shop,"Jl. Madrasah Azziyadaah, RT.10/RW.8",5,6,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Warmindo Ernesto,Coffee shop,"Jl. Cipinang Muara 3, RT.1/RW.15",5,14,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Kopral,Cafe,"Jl. Cipinang Muara Ilir No.55 3, RT.3/RW.5",4.2,52,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Jack,Cafe,"Jl. H. Kamad No.4 53a, RT.1/RW.3",5,3,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop La Familia,Coffee shop,"Jl. Pahlawan Revolusi No.4, RW.8",4.5,23,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop bang jaja,Coffee shop,"QV9R+8HF, RT.13/RW.3",4.7,67,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Jajan,Coffee shop,"Jl. Dermaga Raya blok B5, RT.3/RW.11",5,2,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Babah 57,Coffee shop,"QWC2+W65, RT.6/RW.1",5,1,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Teduh,Coffee shop,"Jl. Cipinang Muara IV GG. Kutilang RT.002/011 Kel, RT.2/RW.11",4.4,36,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Bais,Coffee shop,"Jl. Kavling PLN No.2, RT.11/RW.15",5,6,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+WARKOP DIKA,Cafe,"Jl. BB I No.6, RT.6/RW.15",5,4,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Muara,Cafe,"Jl. Cipinang Muara Raya No.1 16, RT.16/RW.3",4.7,11,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Pura-Pura Bahagia,Cafe,"7, RT.7/RW.4",4.5,2,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Gout,Coffee shop,"Jl. Mulya Jaya No.8, RT.5/RW.8",5,17,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Coffe Shop,Cafe,"Jalan Cipinang Raya Rt 014 Rw 003, Jakarta Selatan, RT.2/RW.3",5,1,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Si Boy,Cafe,"QV7W+8QP, Jalan H. Ahmad R., Pondok Bambu, Duren Sawit, RT.11/RW.4",4.4,36,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop Dua Sekawan,Coffee shop,"Jl. Cendrawasih No.18, RT.18/RW.3",5,1,-6.223627,106.9035019,{'name': 'Kota Jakarta Timur'}
+Warkop UNS,Cafe,"Jl. Pangkalan Jati III No.2, Makasar, Kota Jkt Tim., Daerah Khusus Ibukota Jkt 9 5, RT.9/RW.5",4.5,70,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Malacca 4,Coffee shop,"QWCH+WJ2, Jl. Jend. R.S. Soekanto, RT.4/RW.10",4.4,773,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Maleber Jaya,Coffee shop,"Jalan Cipinang Lontar No. 1 Rt.06/Rw.06 Cipinang Muara, Jatinegara, RT.6/RW.6",4.5,80,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Garage 45,Coffee shop,"Sdn Duren Sawit 10 Pagi, Jl. Madrasah II No.12, RT.12/RW.10",5,12,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Bintang,Coffee shop,"Jl. Laut Arafuru No.2C 8, RT.8/RW.10",4.6,14,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Bang Ben`s,Cafe,"Jl. KH.Azanie No.13 6, RT.6/RW.10",4.2,35,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+WarKop Camp80's_Eighties,Coffee shop,"Jl. B. Tanah 80 Jl. C No.5 5, RT.5/RW.8",5,4,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Alberkah,Coffee shop,"Jl. Kejaksaan No.52 4, RT.4/RW.5",4.4,14,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Bang Iban,Coffee shop,"Jl. Kapuk III No.1 9, RT.6/RW.5",5,1,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Gg Z (War Z),Coffee shop,"Jl Mulya jaya, Jl. Cipinang Muara Ilir Gg. Z Jl. Cipinang Muara III, RT.1/RW.8",5,2,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Nyai Sinden,Coffee shop,"Jl. H. Hanapi No.14, RT.14/RW.2",5,2,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop bening harmony,Coffee shop,"Jl. Duren Sawit Baru No.5 Blok A2, RT.4/RW.11",4.5,10,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Bangun,Coffee shop,"Jl. Cipinang Muara Raya No.4 No.5, RT.4/RW.14",4.6,28,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Iwan (Kuningan),Cafe,"4, RT.4/RW.3",5,1,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Disini Ada Warkop,Coffee shop,"QVJW+2M2, Jl. Cipinang Muara 3, RT.1/RW.4",5,3,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+warkop Omm Broo,Cafe,"Dekat jembatan jagal, samping Gapura, Jl Bekasi Timur Raya N.o17, Gang SD Mustika, RT.1/RW.4",4.7,30,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+Warkop Tunas Harapan,Cafe,"Jl. Swadaya Raya No.13, RT.13/RW.1",4.6,51,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+AJE GILE WARKOP,Coffee shop,"Jl. Duren Sawit Raya (dermaga) No.7, RT.5/RW.10",4.5,21,-6.2501283,106.9072068,{'name': 'Kota Jakarta Timur'}
+WARKOP 2 SAUDARA,Café,"Central Jakarta City, Jacarta, Indonésia","4,5",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Barokah masjid jami'e darusalam,Cafeteria,"Masjid Darussalam, Jl. Kotabumi Ujung No.Depan 8, RT.8/RW.3","4,5",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Sehati,Cafeteria,"Jl. Kb. Kacang 6 No.70 14, RT.14/RW.5","5,0",1,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Romi gaharu,Café,"Jl. Kembang IV No.111 1, RT.1/RW.2","5,0",25,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+WARKOP SINAR GALUH,Café,"QRFR+VP4, Jl. Pal Batu 3, RT.4/RW.10","4,6",23,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+WARKOP MOTEKAR,Cafeteria,"Jl. Talang Betutu Ujung No.10 15, RT.13/RW.4","4,7",3,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warung Kopi Pandawa,Café,"Jl. Pedurenan Mesjid 1 Kel No.40, RT.16/RW.4","4,5",121,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+"Warkop Barokah - Roti Bakar, Internet",Café,"Jl. Tebet Barat IV No.13, RT.16/RW.2","4,6",98,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+"WARKOP ""RUWET""",Cafeteria,"RR84+56V, Jalan Gg. IV, RT.8/RW.4","5,0",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Marindo,Cafeteria,"Jalan Bendungan Hillir 3 No.9, RT.11/RW.1","4,4",143,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Khabita 78,Cafeteria,"No., Jl. Tj. Duren Raya No.1, RT.3/RW.1","4,7",22,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Been Aouf,Café,"Jl. Kb. Kacang XL No.24, RT.10/RW.4","4,5",68,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+"Warkop Selamat Sejahtera, Kebon Kacang",Cafeteria,"Jl. Kebon Kacang 30 No.15, RT.5/RW.4","4,5",2,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop AA,Cafeteria,"2 Jalan Lapangan Ros Utara No.32, KH. Abdullah Safie No.32, RT.2/RW.6","4,6",157,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Bang Doel,Café,"Jl. Kota Bambu Utara IV No.8 2, RT.4/RW.6","5,0",1,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop DPR RGF,Cafeteria,"Jalan epicentrum tengah, Rasuna garden foodstreeta, RT.1/RW.5","4,9",85,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Indomie,Cafeteria,"Jl. Kebon Jahe Kober 5 No.20 8, RT.8/RW.8","4,4",37,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Heroy,Indonésia,"Jl. Kebon Kacang Raya No.1A, RT.7/RW.14","4,5",551,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop AMMAR 1608,Cafeteria,"RRPH+5VC, RT.3/RW.4","5,0",1,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+WARKOP BETAWI CORNER,Café,"Jalan KH. Ilyas No.2, RT.16/RW.7, Kuningan 7, RT.16/RW.2","5,0",8,-6.1982042,106.8204218,{'name': 'Kota Jakarta Pusat'}
+Warkop Pakde BENHIL,Café,"Jl. Bendungan Hilir No.5, RT.5/RW.3","5,0",4,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+WARKOP KUNTAS,Café,"Jl. Kebon Sirih Timur No.dalam no.5d, RT.14/RW.6","5,0",1,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop otoy,Cafeteria,Jl. Kebon Kacang 30 No.7,"5,0",3,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Turunan,Cafeteria,"Jl. KH Abdullah Syafei No.3, RT.3/RW.2","4,9",8,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop baraya 5/A's Putra,Café,"Jl. Kemanggisan Ilir Raya No.36 2, RT.13/RW.8","5,0",5,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Resik,Cafeteria,Jl. Pedurenan Masjid 2,"4,2",9,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Omid,Café,"Jl. Swadaya Ujung No.9 4, RT.4/RW.17","4,1",19,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Kramat Lontar,Café,"Jl. Kramat Lontar No.1, RT.2/RW.7","4,5",49,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Kamboja,Cafeteria,"Jl. Pulo Kamboja No.17, RT.4/RW.6","5,0",9,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Saset,Cafeteria,"Jl. Menteng Atas Dalam No.1, RT.3/RW.6","5,0",13,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+WARKOP aa,Cafeteria,"Jl. Kota Bambu Sel. 6 No.1 8, RT.6/RW.5","5,0",3,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Jabrik,Café,"Jl. Kawi Kawi Bawah L No.36 12, RT.12/RW.8","3,7",7,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Nanas Gang T,Cafeteria,"Jl. Nanas No.3-5 11, RT.11/RW.10","4,5",45,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Pua’Kale’,Cafeteria,"9, Jl. Poltangan Raya No.44A, RT.9/RW.11","4,6",585,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Pasundan Setiabudi Tengah,Cafeteria,"Jl. Setiabudi Tengah No.14 Seberang Warung MJS / Le Green Kuningan Setiabudi, RT.1/RW.1","4,4",9,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Resik,Café,"Jl. Karbela Timur No.10-34 1, RT.1/RW.5","4,8",39,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop X Pancong,Indonésia,"Jl. K.H. Royani I No.23 9, RT.10/RW.1","4,1",15,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+WARKOP REVAN,Cafeteria,"Gg. H Mustopa Jl. Kota Bambu Utara I No.10 13, RT.9/RW.1","5,0",12,-6.2113052,106.8124403,{'name': 'Kota Jakarta Pusat'}
+Warkop Resik,Cafeteria,"Jl. Karet Gusuran III No.8 12, RT.12/RW.1","4,9",11,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop B&Y,Loja de macarrão,"Jl. Tanjung Duren Utara I No.1B, RT.8/RW.2","4,7",194,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Aduhai,Café,"Jl. Pandan No.28 1, RT.7/RW.9","4,5",14,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop PJS,Café,"IXno31., Jl. Tawakal Raya, RT.8/RW.9","4,1",8,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Ilham,Cafeteria,"8, Jl. Murtado 13 No.148-261, RT.8/RW.6","4,9",14,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Warnas,Cafeteria,"Jl. Barito II No.1, RT.2/RW.1","1,0",1,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Warteg BABE 24 Always On,Cafeteria,"Jl. Pintu Air Raya No.57A, RT.6/RW.1","5,0",2,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Bhabacoffe,Café,"RT.4/RW.1, Jl. Kuningan Barat Raya, RT.4/RW.1","5,0",4,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Warna Warni,Galeria de arte e café,"Jl. Prof. DR. Satrio No.3, RT.11/RW.4","5,0",3,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Katineung,Café,"warkop katineung, Jalan Kramat Lontar No. j150 RT.7/RW.1 jl.kramat lontar.J150","4,6",32,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+WARKOP BAROKAH,Cafeteria,RRJQ+F84,"5,0",1,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Junko,Cafeteria,"PRG9+JH6, Jalan Kemang Selatan Raya, Mampang Prapatan, RT.1/RW.3","4,1",28,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop TAKASIMURA,Cafeteria,"Jl. Penggalang No.9, RW.1","4,9",10,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+WARKOP GUNTUR POJOKAN,Cafeteria,Jl. Kawi,"5,0",6,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Cikal,Café,"Jl. Pemuda III A No.14A 11, RT.11","4,6",10,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+WARKOP BERSAMA,Cafeteria,"RV82+7W5, Jl. Kramat Pulo, RT.7/RW.10","3,0",3,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Orange Cafe,Café,"Jalan Gang Keluarga Nomer 39D Rt O06 Rw 012 Palmerah Pulo, RT.4","5,0",1,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Lestari,Cafeteria,"Jl. Tebet Dalam IV No.10-8, RT.16/RW.1","5,0",2,-6.2126629,106.822425,{'name': 'Kota Jakarta Selatan'}
+Warkop Komarudin,Coffee shop,"RVXQ+6Q6, Jalan Raya Boulevard Barat Ruko INKOPAL Blok C Kelapa Gading Barat Jakarta, Utara, RT.2/RW.9",5,2,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+WARKOP A BUANG,Coffee shop,"Kokan Permata Klp. Gading, Wisata Kuliner Puspomal Kelapa Gading (depan Rukan, Jl. Boulevard Bukit Gading Raya, RT.15/RW.3",4,2,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+WARKOP SKSD,Coffee shop,Jl. Inspeksi Kali Sunter,5,4,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Bubur Barokah,Coffee shop,"Jl. Inspeksi Kali Sunter No.9, RT.9/RW.4",5,1,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+warkop kun gar,Cafe,"Jl. Inspeksi Kali Sunter No.13 9, RT.9/RW.4",5,2,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop pulo,Cafe,"RVWM+244, Jl. Pulo Besar 1, RT.005/011/RW.11",4.9,8,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+"Warkop 99 Kuningan, Kelapa Gading",Cafe,"Jalan Taman Mandiri Indah, Blok M4D, #9, RT.13/RW.18",4.7,55,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Pak Musa (Warpol),Cafe,"Jl. Klp. Puan Raya No.13, RT.13/RW.13",5,1,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Sadulur,Cafe,"Jl. Inspeksi Kali Sunter No.4 7, RT.10/RW.4",4.5,4,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Paul,Coffee shop,"Jl. Inspeksi Kali Sunter No.15 15, RT.15/RW.4",4.8,10,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop 24,Coffee shop,"RVJW+7MM, Jl. Pelepah Raya, RW.5",4.2,27,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Bekas Sekolah,Coffee shop,Jl. Telaga Raya No.79,5,33,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Galunggung,Cafe,"RVRG+68H, RT.1/RW.9",4.6,54,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop lengkap,Coffee shop,"Komp. Bukit Gading Indah, Jl. Raya Bukit Gading Villa, RT.4/RW.14",5,1,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Biru Co.,Coffee shop,"Jl. Plumpang Semper No.16A, RT.1/RW.4",4.6,17,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Askar 07 Salawasna Dina Hate,Cafe,"Jl. Inspeksi Kp, Jl. Rw. Indah GG. Armada No.10, RT.3/RW.3",5,3,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Walet,Cafe,"Jl. Gaya Motor III No.4, RW.8",4.6,84,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Lembaga Warkop DKI,Cafe,"East Jakarta City, Jakarta, Indonesia",5,6,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop Lembah Ciremay,Cafe,"Central Jakarta City, Jakarta, Indonesia",4.6,120,-6.1519557,106.8893979,{'name': 'Kota Jakarta Utara'}
+Warkop ngalor ngidul,Coffee shop,"Jakarta, Indonesia",5,1,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop warmindo cirebon,Coffee shop,"Jl. Pegangsaan Dua no 64, RW.3",4.5,8,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Tamjog,Cafe,"we2 no 3a, Jl. Boulevard Raya, RT.13/RW.16",4.4,73,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Kuning Manggar,Cafe,Jl. Manggar No.8a,5,8,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Mar-Le,Cafe,"2, Jl. Pademangan V No.31, RT.2/RW.9",4.5,62,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Nyai Lilis,Cafe,"Central Jakarta City, Jakarta, Indonesia",5,7,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Panca,Cafe,"Central Jakarta City, Jakarta, Indonesia",4.6,65,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Mang Wawan,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",5,3,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Bejo,Coffee shop,"BLK. G7, No. 20, Ruko Danau Sunter Utara, JL. Danau Sunter Utara, Sunter Agung, 14350 Jakarta Utara, Indonesia, RT.14/RW.13",5,4,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Salah Satu,Coffee shop,"Jl. Tipar Cakung No.3, RT.2/RW.4",5,21,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop AREVA / Warkop GONDRONG,Cafe,"Blk. A, Jl. Alamanda Raya nomer 1",5,1,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop sumber barokah,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",4,1,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Bu Boss,Cafe,Jl. Walang Permai No.17 A,4.9,17,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Santri,Cafe,"VVHC+X9G, Jl. Bahari II, RT.4/RW.3",4.6,57,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Sola,Cafe,"Jl. Warakas III Gg. 10 No.25a, 15 4, RT.15/RW.4",4.6,29,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop GMR,Coffee shop,"East Jakarta City, Jakarta, Indonesia",5,2,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+Warkop Oting,Cafe,"Jl. Warakas V Jl. Warakas Gg. 8 No.124 12, RT.12/RW.10",4.5,67,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+WARKOP MINI JOHAR BARU,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",4.7,67,-6.1721943,106.8987546,{'name': 'Kota Jakarta Utara'}
+WarKop Suhar 24Jam Danau Sunter,Cafe,"VV4J+5P8, Jl. Danau Sunter Selatan, RT.11/RW.11",5,4,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+WARKOP...BARU,Coffee shop,"Jl. Benteng Mas Raya Gg. Sky IX No.VII RT.16/RW.6, no 9",5,2,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Pak Ade,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",5,3,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Starbak Pak Sarwan,Cafe,RT.2/RW.9,5,16,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Deli 26,Cafe,"VVQX+VM9, RT.4/RW.2",4.5,14,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Mardani,Cafe,"Central Jakarta City, Jakarta, Indonesia",3.7,3,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Azka,Coffee shop,"Jl. Dukuh No.35 1, RT.1/RW.8",4.3,3,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Ndeso'o Warkop,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",5,13,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Centeria,Cafe,"Jl. Mindi No.35 3, RT.3/RW.7",4.8,35,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+WARKOP HARAPAN BUNDA,Coffee shop,"Jl. Swadaya No.20 1, RT.12/RW.5",5,1,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Cabang Swadaya 02,Coffee shop,"Jl. Warakas Raya No.82 1, RT.8/RW.8",5,6,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+WADUH - Warkop Seduh,Coffee shop,"5, Jl. Komp. Yuka No.8, RT.4/RW.8",5,3,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Barokah Sunter,Coffee shop,"Jl. Sunter Jaya II A, RT.6/RW.2",5,1,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Mami Gue,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",5,1,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Bukan Warkop Biasa,Coffee shop,Indonesia,4.9,11,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop 1 Jan_Cook,Coffee shop,"Samping Hotel D'Arcici, Jl. Plumpang Semper Raya No.59 8, RT.8/RW.2",4.6,8,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+WARKOP BETAWI,Cafe,"West Jakarta City, Jakarta, Indonesia",4.6,53,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop sahabat,Coffee shop,"Jl. Warakas V Gg. 5 No.98, RT.12/RW.9",5,1,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
+Warkop Suka Suka Kopi,Coffee shop,"Central Jakarta City, Jakarta, Indonesia",5,3,-6.144595,106.8818239,{'name': 'Kota Jakarta Utara'}
