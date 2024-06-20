@@ -22,8 +22,12 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
 ## Prototype
 - [Prototype](https://www.figma.com/design/AnOSRajgjhnxInUQ08gVf3/capstone?node-id=0-1&t=7xK7JlY18MtIrvly-0)
 ## Our Features 
-- Splash Screen
-- Warkop Recommendations
+- Splash Screen\
+  Upon launching the app, a visually appealing splash screen is displayed, featuring the InWarkop logo.
+- Home Screen\
+  The home screen serves as the main hub of the app, providing easy access to the main feature.
+- Warkop List\
+  warkop screen which displays a list of warkops in Jakarta based on their area.
 
 ## Libraries and Dependecies
 - RecyclerView
@@ -38,5 +42,6 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
     - Clone This Project 
     bash
     $ git clone https://github.com/fadhlilnm/C241-PR542.git
-     
+   
+    - Open the project in Android Studio
     - Run the application
