@@ -25,7 +25,7 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
 
 ## Libraries and Dependecies
 - RecyclerView
-- Navigation Component  
+- Glide  
 - Retrofit 2 and OKHTTP3
 - Gson Converter
 
