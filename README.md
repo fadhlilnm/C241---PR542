@@ -19,6 +19,8 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
 ## Android Architecture
 - MVVM Architecture
 
+## Prototype
+- [Prototype]([https://www.figma.com/file/UdIFNof3Qd4eqGJ3TJUjRf/Terralysis?type=design&node-id=20-2&t=TxUlRIGd1phjoVdZ-0](https://www.figma.com/design/AnOSRajgjhnxInUQ08gVf3/capstone?node-id=0-1&t=7xK7JlY18MtIrvly-0))
 ## Our Features 
 - Splash Screen
 - Warkop Recommendations
