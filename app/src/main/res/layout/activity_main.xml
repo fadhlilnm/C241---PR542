@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/inwarkopbg"
@@ -33,6 +34,7 @@
             android:layout_marginTop="10dp"
             android:text="@string/button_north"
             android:textSize="24sp"
+            android:backgroundTint="@color/brown"
             android:textColor="@android:color/white" />
 
         <Button
@@ -42,6 +44,7 @@
             android:layout_marginTop="10dp"
             android:text="@string/button_east"
             android:textSize="24sp"
+            android:backgroundTint="@color/brown"
             android:textColor="@android:color/white" />
 
         <Button
@@ -51,6 +54,7 @@
             android:layout_marginTop="10dp"
             android:text="@string/button_west"
             android:textSize="24sp"
+            android:backgroundTint="@color/brown"
             android:textColor="@android:color/white" />
 
         <Button
@@ -60,6 +64,7 @@
             android:layout_marginTop="10dp"
             android:text="@string/button_south"
             android:textSize="24sp"
+            android:backgroundTint="@color/brown"
             android:textColor="@android:color/white" />
 
         <Button
@@ -69,6 +74,7 @@
             android:layout_marginTop="10dp"
             android:text="@string/button_middle"
             android:textSize="24sp"
+            android:backgroundTint="@color/brown"
             android:textColor="@android:color/white" />
     </LinearLayout>
 </RelativeLayout>
