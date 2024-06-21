@@ -44,4 +44,4 @@ The capstone project that our team created is inWarkop. so inWarkop is an androi
 ## Deployment Link APK Waras
 
 Download Link APK Waras:<br>
-[WarasAPK (Google Drive)](https://drive.google.com/drive/u/4/folders/1Ab0YwTP36JpWb2J52iYDjUWgD9VJCY9Q)
+[inWarkop (Google Drive)](https://drive.google.com/drive/u/4/folders/1Ab0YwTP36JpWb2J52iYDjUWgD9VJCY9Q)
