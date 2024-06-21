@@ -2,23 +2,25 @@ package com.dicoding.inwarkop
 
 import android.os.Bundle
 import android.util.Log
+import android.view.View
+import android.widget.ProgressBar
 import android.widget.TextView
+import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.dicoding.inwarkop.adapter.WarkopAdapter
 import com.dicoding.inwarkop.response.WarkopResponse
-import com.dicoding.restaurantreview.data.retrofit.ApiConfig
-import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
+import com.dicoding.inwarkop.viewmodel.WarkopViewModel
 
 class WarkopListActivity : AppCompatActivity() {
 
     private lateinit var adapter: WarkopAdapter
-    private val warkopList = mutableListOf<WarkopResponse>()
     private lateinit var apiUrl: String
-    private lateinit var region: String // tambahkan ini
+    private lateinit var region: String
+    private lateinit var progressBar: ProgressBar
+    private val viewModel: WarkopViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,33 +32,27 @@ class WarkopListActivity : AppCompatActivity() {
 
         // Set region text
         val regionTextView: TextView = findViewById(R.id.regionTextView)
-        regionTextView.text = region // Set text to the region name
+        regionTextView.text = region
 
         // Set up RecyclerView
         val recyclerView: RecyclerView = findViewById(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)
-        adapter = WarkopAdapter(warkopList)
+        adapter = WarkopAdapter()
         recyclerView.adapter = adapter
 
-        // Fetch restaurant data
-        fetchWarkopData()
-    }
+        // Set up ProgressBar
+        progressBar = findViewById(R.id.progressBar)
 
-    private fun fetchWarkopData() {
-        ApiConfig.getApiService().getWarkopList(apiUrl).enqueue(object : Callback<List<WarkopResponse>> {
-            override fun onResponse(call: Call<List<WarkopResponse>>, response: Response<List<WarkopResponse>>) {
-                if (response.isSuccessful) {
-                    response.body()?.let {
-                        warkopList.clear()
-                        warkopList.addAll(it)
-                        adapter.notifyDataSetChanged()
-                    }
-                }
-            }
-
-            override fun onFailure(call: Call<List<WarkopResponse>>, t: Throwable) {
-                Log.e("RestaurantListActivity", "onFailure: ", t)
-            }
+        // Observe ViewModel data
+        viewModel.warkopList.observe(this, Observer { warkopList ->
+            adapter.submitList(warkopList)
         })
+
+        viewModel.isLoading.observe(this, Observer { isLoading ->
+            progressBar.visibility = if (isLoading) View.VISIBLE else View.GONE
+        })
+
+        // Fetch restaurant data
+        viewModel.fetchWarkopData(apiUrl)
     }
 }
