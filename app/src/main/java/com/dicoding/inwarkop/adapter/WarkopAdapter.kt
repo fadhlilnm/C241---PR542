@@ -3,14 +3,14 @@ package com.dicoding.inwarkop.adapter
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import android.widget.TextView
+import androidx.recyclerview.widget.DiffUtil
+import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.bumptech.glide.Glide
 import com.dicoding.inwarkop.R
 import com.dicoding.inwarkop.response.WarkopResponse
 
-class WarkopAdapter(private val warkopList: List<WarkopResponse>) : RecyclerView.Adapter<WarkopAdapter.ViewHolder>() {
+class WarkopAdapter : ListAdapter<WarkopResponse, WarkopAdapter.ViewHolder>(WarkopDiffCallback()) {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_warkop, parent, false)
@@ -18,11 +18,9 @@ class WarkopAdapter(private val warkopList: List<WarkopResponse>) : RecyclerView
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val warkop = warkopList[position]
+        val warkop = getItem(position)
         holder.bind(warkop)
     }
-
-    override fun getItemCount(): Int = warkopList.size
 
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         private val nameTextView: TextView = itemView.findViewById(R.id.nameTextView)
@@ -35,6 +33,16 @@ class WarkopAdapter(private val warkopList: List<WarkopResponse>) : RecyclerView
             addressTextView.text = warkop.address
             ratingTextView.text = warkop.rating
             ratingCountTextView.text = warkop.rating_count
+        }
+    }
+
+    class WarkopDiffCallback : DiffUtil.ItemCallback<WarkopResponse>() {
+        override fun areItemsTheSame(oldItem: WarkopResponse, newItem: WarkopResponse): Boolean {
+            return oldItem.id == newItem.id
+        }
+
+        override fun areContentsTheSame(oldItem: WarkopResponse, newItem: WarkopResponse): Boolean {
+            return oldItem == newItem
         }
     }
 }
