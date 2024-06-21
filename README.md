@@ -44,7 +44,7 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
     - Android Studio
  * ### Installations
     - Clone This Project 
-    bash
+    ```bash
     $ git clone https://github.com/fadhlilnm/C241-PR542.git
    
     - Open the project in Android Studio
