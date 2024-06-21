@@ -23,7 +23,7 @@ The capstone project that our team created is inWarkop. so inWarkop is an androi
 
 ## Documentation
 
-![inWarkop](https://drive.google.com/file/d/17JxeNhQc3FCOPZJsYVuo7_MY6Dd_ZBbB/view?usp=drive_link)
+![inWarkop](assets/Documentation.png)
 
 ## System Architecture
 
