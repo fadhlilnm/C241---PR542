@@ -18,4 +18,4 @@ Here is our repository for Bangkit 2022 Capstone project - Cloud Computing.
 This API was built with Node JS and framework Express JS with some supported API, and for test the local with postman and we deploy the back-end using cloud run service dan artifact registry for deploy the Dockerfile.
 <br>
 ## API URL
-[inWarkop API URL](hhttps://inwarkop-a6kfmr6rta-as.a.run.app/)
+[inWarkop API URL](https://inwarkop-a6kfmr6rta-as.a.run.app)
