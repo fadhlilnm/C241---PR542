@@ -17,7 +17,7 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
 
 ## Android Architecture
 - Architecture
-![InWarkop Architecture](AndroidArchitecture.jpg)
+![InWarkop Architecture](https://github.com/fadhlilnm/C241-PR542/blob/fb7bbe49a9ca0d8020acb73363388a726739daa4/assets/AndroidArchitecture.jpg))
 ## Prototype
 - [Prototype](https://www.figma.com/design/AnOSRajgjhnxInUQ08gVf3/capstone?node-id=0-1&t=7xK7JlY18MtIrvly-0)
 ## Our Features 
