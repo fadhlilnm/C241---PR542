@@ -36,8 +36,8 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
 - Gson Converter
 - 
 ## Libraries and Dependecies
-- Internet
-  The app needs access to the internet to communicate with the server and retrieve data.
+- Internet\
+The app needs access to the internet to communicate with the server and retrieve data.
 
 ## Installation
  * ### Prerequisites
