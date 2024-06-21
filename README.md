@@ -29,6 +29,9 @@ The capstone project that our team created is inWarkop. so inWarkop is an androi
 
 ![SystemArchitecture](assets/Architecture.jpg)
 
+## Tools
+![Tools](https://github.com/fadhlilnm/C241-PR542/blob/d995f6f1dfe13076650b483509e2b2d0eccca557/assets/SystemArchitecture.png)
+
 ## Repositories
 
 |    Branch Name     |                                      Branch Link                                         |
