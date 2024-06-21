@@ -12,9 +12,8 @@ Here is our repository for Bangkit 2024 Capstone project - Mobile Development.
 ## Android Development Schedule
 |  Task  |     Week 1     |       Week 2        |            Week 3          |            Week 4          |
 | :----: | :------------: | :-----------------: | :------------------------: | :------------------------: |
-| Task 1 | UI/UX Design   | Create Main UI      |Add Some Features           | User Testing               |  
-| Task 2 | Create Concept |                     |                            | Fix Bugs          | 
-| Task 3 |                |                     |                            |           |
+|  1 | UI/UX Design   | Create Main UI      |Add Some Features           | User Testing               |  
+| 2 | Create Concept |                     |                            | Fix Bugs          | 
 
 ## Android Architecture
 - MVVM Architecture
